@@ -8,7 +8,7 @@ print '*'
 
 
 */
-#include <iostrea>
+#include <iostream>
 using namespace std;
 
 void print7(int n) {
